@@ -1,0 +1,7 @@
+<!-- Save this as favicon.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Roof outline -->
+  <path d="M16 44 L32 20 L48 44 Z" stroke="gold" stroke-width="3" fill="none" />
+  <!-- Chimney -->
+  <rect x="40" y="16" width="4" height="8" fill="gold" rx="0.5" ry="0.5" />
+</svg>

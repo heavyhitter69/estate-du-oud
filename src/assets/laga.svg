@@ -1,0 +1,19 @@
+
+<!-- Save this as logo.svg -->
+<svg width="135" height="45" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- No background rect for transparency -->
+  <g>
+    <!-- Stylized roof -->
+    <path d="M28 55 L44 30 L60 55 Z" stroke="gold" stroke-width="3" fill="none" />
+    <!-- Chimney -->
+    <rect x="50" y="25" width="5" height="10" fill="gold" rx="1" ry="1" />
+    
+    <!-- Company Name -->
+    <text x="70" y="52" font-family="Georgia, serif" font-size="26" fill="black" font-weight="600" letter-spacing="1">
+      Estate
+    </text>
+    <text x="70" y="74" font-family="Georgia, serif" font-size="18" fill="#FFD700" letter-spacing="1" font-style="italic">
+      du Oud
+    </text>
+  </g>
+</svg>
